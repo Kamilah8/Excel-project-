@@ -3,9 +3,10 @@
 
 #### Project Overview.
 
-This Data Analysis project aims to provide insights into the sale performances among  people of different age bracket and marital status.
+This Data Analysis project aims to provide insights into the purchase performances among  people of different age bracket and marital status.
 By analyzing various aspeect of the data, we seek to identify trends and  make data-driven insights.
-![Dashboard](![Dashboard](https://github.com/Kamilah8/Excel-project./assets/66366192/83ddb934-fd63-4f0b-9fa6-890de8012106)
+![Dashboard](https://github.com/Kamilah8/Excel-project./assets/66366192/85432645-8e6e-480e-a76b-221a09bf825d)
+
 
 
 ### Data Source.
@@ -13,7 +14,8 @@ By analyzing various aspeect of the data, we seek to identify trends and  make d
 
 ### Tools 
 
- Excel (used for data Cleaning[Download here](, analysis and creating a report.
+ Excel (used for [data Cleaning](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
+and analysis).
 
  ### Data Cleaning /Preparation.
 
