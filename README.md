@@ -5,9 +5,11 @@
 
 This Data Analysis project aims to provide insights into the sale performances among  people of different age bracket and marital status.
 By analyzing various aspeect of the data, we seek to identify trends and  make data-driven insights.
-![Dashboard]
+![Dashboard](![Dashboard](https://github.com/Kamilah8/Excel-project./assets/66366192/83ddb934-fd63-4f0b-9fa6-890de8012106)
+
 
 ### Data Source.
+[Bike Dataset](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
 
 ### Tools 
 
