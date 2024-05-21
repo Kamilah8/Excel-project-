@@ -5,6 +5,7 @@
 
 This Data Analysis project aims to provide insights into the sale performances among  people of different age bracket and marital status.
 By analyzing various aspeect of the data, we seek to identify trends and  make data-driven insights.
+![Dashboard]
 
 ### Data Source.
 
